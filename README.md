@@ -1,2 +1,3 @@
-# contact
-Form submission in php
+# Contact form
+Form contact in PHP
+Base code for any other form
